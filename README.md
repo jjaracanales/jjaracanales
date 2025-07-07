@@ -18,7 +18,7 @@
 - 🧠 Actualmente profundizando en **Next.js**, **Prisma**, y **AWS Cloud Deployment**.
 - 🤝 Abierto a colaborar en proyectos de impacto con buenas prácticas y escalabilidad.
 - 🛠️ Enfocado en automatización, rendimiento, accesibilidad y experiencia de usuario.
-- 📍 Basado en Chile, disponible para colaboración remota o freelance.
+- 📍 Vivo en Chile, disponible para colaboración remota o freelance.
 
 ---
 
