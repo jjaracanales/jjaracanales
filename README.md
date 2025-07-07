@@ -38,7 +38,8 @@
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" alt="Laravel" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
 
   <!-- Bases de Datos -->
@@ -53,10 +54,29 @@
 
 - 🔗 [**Empleando.cl**](https://empleando.cl) – Plataforma de empleo para empresas y postulantes con funcionalidades avanzadas.
 
-
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.
+  <img src="https://github-readme-stats.vercel.app/api?username=jjaracanales&show_icons=true&theme=react&locale=es" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjaracanales&layout=compact&theme=react" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjaracanales&theme=react" height="160" />
+</p>
+
+---
+
+### 🤝 Contacto
+
+<p align="center">
+  <a href="mailto:jjaracanales@gmail.com"><img src="https://img.shields.io/badge/Email-jjaracanales@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/jjaracanales"><img src="https://img.shields.io/badge/LinkedIn-jjaracanales-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://github.com/jjaracanales"><img src="https://img.shields.io/badge/GitHub-jjaracanales-black?style=flat&logo=github" /></a>
+</p>
+
+---
+
+<p align="center">💡 “Transformo ideas en código funcional y escalable.”</p>
