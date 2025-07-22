@@ -59,8 +59,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jjaracanales&show_icons=true&theme=react&locale=es" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjaracanales&layout=compact&theme=react" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjaracanales&layout=compact&langs_count=10&theme=react" height="160" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjaracanales&theme=react" height="160" />
