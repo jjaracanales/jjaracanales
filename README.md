@@ -1,5 +1,5 @@
 <h1 align="center">Jose Jara Canales</h1>
-<h3 align="center">Full Stack Developer & Founder of <a href="https://plutonia.cl">Plutonia</a> | Chile</h3>
+<h3 align="center">Full Stack Developer & Fundador de <a href="https://plutonia.cl">Plutonia</a> | Chile</h3>
 
 <p align="center">
   <a href="https://plutonia.cl" target="_blank">
@@ -24,9 +24,9 @@
 
 ---
 
-### Sobre mi
+### Sobre mí
 
-Soy desarrollador Full Stack y fundador de **[Plutonia](https://plutonia.cl)**, empresa tecnologica con sede en Chile especializada en desarrollo web, aplicaciones moviles, automatizacion y soluciones digitales. He desarrollado mas de 60 proyectos en 15+ sectores, con aplicaciones que suman mas de 30.000 descargas.
+Soy desarrollador Full Stack y fundador de **[Plutonia](https://plutonia.cl)**, empresa tecnológica con sede en Chile especializada en desarrollo web, aplicaciones móviles, automatización y soluciones digitales. He desarrollado más de 60 proyectos en 15+ sectores, con aplicaciones que suman más de 30.000 descargas.
 
 ---
 
@@ -71,73 +71,53 @@ Soy desarrollador Full Stack y fundador de **[Plutonia](https://plutonia.cl)**, 
 
 ---
 
-### Proyectos Destacados — Plutonia
+### Proyectos Destacados — [Plutonia](https://plutonia.cl)
 
 #### Plataformas Web
 
-| Proyecto | Descripcion | URL |
+| Proyecto | Descripción | URL |
 |----------|-------------|-----|
 | **Empleando** | Plataforma que conecta talento chileno con empresas innovadoras | [empleando.cl](https://www.empleando.cl) |
-| **SubControl** | Aplicacion empresarial para gestion y control de subcontratistas | [subcontrol.cl](https://www.subcontrol.cl) |
-| **Prevencionista Digital** | Plataforma integral para gestion de prevencion de riesgos | [prevencionistadigital.cl](https://prevencionistadigital.cl) |
+| **SubControl** | Aplicación empresarial para gestión y control de subcontratistas | [subcontrol.cl](https://www.subcontrol.cl) |
+| **Prevencionista Digital** | Plataforma integral para gestión de prevención de riesgos | [prevencionistadigital.cl](https://prevencionistadigital.cl) |
 | **Conecta Colombia** | Plataforma digital que conecta a la comunidad colombiana en Chile | [conectacolombia.cl](https://www.conectacolombia.cl) |
-| **Planillas** | Plataforma digital de planillas de productividad empresarial | [planillas.cl](https://www.planillas.cl) |
-| **El Taller 3D** | Plataforma especializada en impresion 3D y prototipado rapido | [eltaller3d.cl](https://www.eltaller3d.cl) |
 
-#### Sitios Web Corporativos
+#### Aplicaciones Móviles
 
-| Proyecto | Descripcion | URL |
-|----------|-------------|-----|
-| **Colombianos en Chile** | Sitio web para reserva y compra de entradas de eventos | [colombianosenchile.cl](https://colombianosenchile.cl) |
-| **Agrocomercial Santa Bernardita** | Sitio corporativo con concurso y catalogo de productos | [santabernardita.cl](https://santabernardita.cl) |
-| **Pasos Firmes** | Sitio web del centro psicologico Pasos Firmes | [pasosfirmes.cl](https://pasosfirmes.cl) |
-| **Abana Construcciones** | Sitio web corporativo para empresa de construcciones | [abanaspa.cl](https://abanaspa.cl) |
-| **Construcciones Valal** | Sitio web corporativo para empresa de construccion | [construccionesvalal.cl](https://construccionesvalal.cl) |
-
-#### Aplicaciones Moviles
-
-| Proyecto | Descripcion | Plataformas |
+| Proyecto | Descripción | Plataformas |
 |----------|-------------|-------------|
-| **DeObra** | Reportes de obra para el sector construccion | [Android](https://play.google.com/store/apps/details?id=com.plutonia.deobra) / [iOS](https://apps.apple.com/us/app/deobra-reportes-de-obra/id6759624989) |
-| **Beauty Control** | Gestion de citas, clientes y finanzas para salones de belleza | [Android](https://play.google.com/store/apps/details?id=com.plutonia.BeautyControl) / [iOS](https://apps.apple.com/us/app/beauty-control/id6759985156) |
-| **Barber Control** | Gestion de barberia: citas, clientes, pagos y estadisticas | [Android](https://play.google.com/store/apps/details?id=com.plutonia.BarberControl) / [iOS](https://apps.apple.com/us/app/barber-control-agenda-y-cita/id6757206074) |
-| **Guantera** | Gestion de vehiculos: documentos, mantenciones y seguridad | [Android](https://play.google.com/store/apps/details?id=com.plutonia.guantera) / [iOS](https://apps.apple.com/us/app/guantera-documentos-del-auto/id6757438998) |
-| **Boleti** | Control de gastos con fotos de boletas y estadisticas inteligentes | [Android](https://play.google.com/store/apps/details?id=com.plutonia.boleti) / [iOS](https://apps.apple.com/us/app/boleti-gestor-de-gastos/id6755055699) |
-| **Vitae** | Generador de curriculum profesional desde tu movil | [iOS](https://apps.apple.com/us/app/vitae-cv-sin-anuncios/id6758726912) |
-| **Nucleo** | Organiza tus tareas de forma simple y efectiva | [iOS](https://apps.apple.com/us/app/n%C3%BAcleo-organiza-tus-tareas/id6759262584) |
-| **Plutonia QR** | Generador y lector de codigos QR avanzado | [iOS](https://apps.apple.com/us/app/plutonia-qr-lee-sin-anuncios/id6755090147) |
+| **DeObra** | Reportes de obra para el sector construcción | [Android](https://play.google.com/store/apps/details?id=com.plutonia.deobra) / [iOS](https://apps.apple.com/us/app/deobra-reportes-de-obra/id6759624989) |
+| **Beauty Control** | Gestión de citas, clientes y finanzas para salones de belleza | [Android](https://play.google.com/store/apps/details?id=com.plutonia.BeautyControl) / [iOS](https://apps.apple.com/us/app/beauty-control/id6759985156) |
+| **Barber Control** | Gestión de barbería: citas, clientes, pagos y estadísticas | [Android](https://play.google.com/store/apps/details?id=com.plutonia.BarberControl) / [iOS](https://apps.apple.com/us/app/barber-control-agenda-y-cita/id6757206074) |
+| **Guantera** | Gestión de vehículos: documentos, mantenciones y seguridad | [Android](https://play.google.com/store/apps/details?id=com.plutonia.guantera) / [iOS](https://apps.apple.com/us/app/guantera-documentos-del-auto/id6757438998) |
+| **Boleti** | Control de gastos con fotos de boletas y estadísticas inteligentes | [Android](https://play.google.com/store/apps/details?id=com.plutonia.boleti) / [iOS](https://apps.apple.com/us/app/boleti-gestor-de-gastos/id6755055699) |
+| **Vitae** | Generador de currículum profesional desde tu móvil | [iOS](https://apps.apple.com/us/app/vitae-cv-sin-anuncios/id6758726912) |
+| **Núcleo** | Organiza tus tareas de forma simple y efectiva | [iOS](https://apps.apple.com/us/app/n%C3%BAcleo-organiza-tus-tareas/id6759262584) |
+| **Plutonia QR** | Generador y lector de códigos QR avanzado | [iOS](https://apps.apple.com/us/app/plutonia-qr-lee-sin-anuncios/id6755090147) |
 | **Consulta Multas** | Consulta multas de empresas en Chile | [iOS](https://apps.apple.com/us/app/consulta-multas-empresas-cl/id6757965422) |
-| **Volumix** | Calculadora de areas y volumenes geometricos | [iOS](https://apps.apple.com/us/app/volumix-%C3%A1reas-y-vol%C3%BAmenes/id6757870446) |
-| **Calculo Horas Extras Chile** | Calculo de horas extras segun normativa laboral chilena | [Android](https://play.google.com/store/apps/details?id=com.calculadorahorasextras.chile) / [iOS](https://apps.apple.com/us/app/calculadora-horas-extras-chile/id6755077000) |
-| **Calculadora de IVA Chile** | Calculo de neto, bruto e IVA del 19% con exportacion a PDF | [Android](https://play.google.com/store/apps/details?id=com.plutonia.calculadoraivachile) |
-| **Liquida Chile** | Calculo de finiquito y liquidacion de sueldo en Chile | [Android](https://play.google.com/store/apps/details?id=com.plutonia.liquidachile) |
+| **Volumix** | Calculadora de áreas y volúmenes geométricos | [iOS](https://apps.apple.com/us/app/volumix-%C3%A1reas-y-vol%C3%BAmenes/id6757870446) |
+| **Cálculo Horas Extras Chile** | Cálculo de horas extras según normativa laboral chilena | [Android](https://play.google.com/store/apps/details?id=com.calculadorahorasextras.chile) / [iOS](https://apps.apple.com/us/app/calculadora-horas-extras-chile/id6755077000) |
+| **Calculadora de IVA Chile** | Cálculo de neto, bruto e IVA del 19% con exportación a PDF | [Android](https://play.google.com/store/apps/details?id=com.plutonia.calculadoraivachile) |
+| **Liquida Chile** | Cálculo de finiquito y liquidación de sueldo en Chile | [Android](https://play.google.com/store/apps/details?id=com.plutonia.liquidachile) |
 | **Farmacias de Turno** | Encuentra farmacias de turno 24 horas en Chile | [Android](https://play.google.com/store/apps/details?id=com.plutonia.farmaciasturno) |
-| **Multimarcador** | Marcador deportivo rapido para 8 deportes | [Android](https://play.google.com/store/apps/details?id=com.plutonia.multimarcador) / [iOS](https://apps.apple.com/us/app/multi-marcador-deportivo/id6759112132) |
+| **Multimarcador** | Marcador deportivo rápido para 8 deportes | [Android](https://play.google.com/store/apps/details?id=com.plutonia.multimarcador) / [iOS](https://apps.apple.com/us/app/multi-marcador-deportivo/id6759112132) |
 | **Simple Reloj** | Reloj minimalista y animado para tu escritorio | [Android](https://play.google.com/store/apps/details?id=com.plutonia.simplereloj) |
 | **Tabata Timer** | Temporizador Tabata para HIIT, CrossFit y cardio | [Android](https://play.google.com/store/apps/details?id=com.plutonia.tabata) / [iOS](https://apps.apple.com/us/app/tabata-timer-entrenamiento/id6759405369) |
 
 #### Juegos
 
-| Proyecto | Descripcion | Plataformas |
+| Proyecto | Descripción | Plataformas |
 |----------|-------------|-------------|
-| **DiverJump** | Salta entre corrientes oceanicas y esquiva depredadores | [Android](https://play.google.com/store/apps/details?id=com.plutonia.diverjump) |
+| **DiverJump** | Salta entre corrientes oceánicas y esquiva depredadores | [Android](https://play.google.com/store/apps/details?id=com.plutonia.diverjump) |
 | **Astro Jump** | Esquiva meteoritos y OVNIs en el espacio | [Android](https://play.google.com/store/apps/details?id=com.plutonia.astrojump) / [iOS](https://apps.apple.com/us/app/astro-jump-aventura-espacial/id6755128961) |
 | **Orbital** | Fusiona planetas, alcanza el Sol y desbloquea 100+ logros | [Android](https://play.google.com/store/apps/details?id=com.plutonia.orbital) / [iOS](https://apps.apple.com/us/app/orbital-fusi%C3%B3n-espacial/id6754891764) |
-| **Sudoku Minimalista** | Sudoku con diseno minimalista | [Android](https://play.google.com/store/apps/details?id=com.plutonia.minimalistsudoku) / [iOS](https://apps.apple.com/us/app/sudoku-minimalist/id6757563397) |
+| **Sudoku Minimalista** | Sudoku con diseño minimalista | [Android](https://play.google.com/store/apps/details?id=com.plutonia.minimalistsudoku) / [iOS](https://apps.apple.com/us/app/sudoku-minimalist/id6757563397) |
 
-#### Automatizacion & Desktop
+#### Automatización & Desktop
 
-| Proyecto | Descripcion |
+| Proyecto | Descripción |
 |----------|-------------|
-| **Auto DT** | Automatizador RPA para subir contratos a la Direccion del Trabajo |
-
-#### Branding & Marketing
-
-| Proyecto | Descripcion |
-|----------|-------------|
-| **Campana Digital JOHS** | Estrategia integral de marketing digital para empresa de prevencion de riesgos |
-| **Branding Armonia Botanica** | Desarrollo integral de identidad de marca para productos naturales |
-| **Grabado Laser Don Pollo** | Grabado laser personalizado en termos corporativos |
+| **Auto DT** | Automatizador RPA para subir contratos a la Dirección del Trabajo |
 
 ---
 
@@ -154,7 +134,7 @@ Soy desarrollador Full Stack y fundador de **[Plutonia](https://plutonia.cl)**, 
 
 ---
 
-<p align="center"><i>"Transformo ideas en codigo funcional y escalable."</i></p>
+<p align="center"><i>"Transformo ideas en código funcional y escalable."</i></p>
 
 <p align="center">
   <a href="https://plutonia.cl">plutonia.cl</a> &middot;
