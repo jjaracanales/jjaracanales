@@ -124,17 +124,12 @@ Soy desarrollador Full Stack y fundador de **[Plutonia](https://plutonia.cl)**, 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjaracanales&show_icons=true&theme=github_dark&locale=es&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjaracanales&layout=compact&langs_count=10&theme=github_dark&hide_border=true" height="160" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjaracanales&theme=github-dark-blue&hide_border=true" height="160" />
 </p>
 
 ---
 
-<p align="center"><i>"Transformo ideas en código funcional y escalable."</i></p>
+<p align="center"><i>"Haciendo realidad lo que imaginas."</i></p>
 
 <p align="center">
   <a href="https://plutonia.cl">plutonia.cl</a> &middot;
